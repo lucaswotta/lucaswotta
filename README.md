@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=7000&pause=1000&color=00AC01&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5500&pause=999999&color=00AC01&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World!)](https://git.io/typing-svg)
 
 ![](https://github-profile-trophy.vercel.app/?username=lucaswotta&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
 
@@ -28,7 +28,7 @@
 <br>
 <hr>
 
-<p>Graduating in Systems Analysis and Development, I'm an expert in tinkering with hardware looking for new challenges in development for fun and profit.<p>
+<p>Graduating in Systems Analysis and Development, I'm an expert in tinkering with hardware looking for new challenges in development for fun and profit.</p>
 
 <div align="center">
    <img height="200" align="right" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
@@ -42,14 +42,11 @@
 <a href="https://www.linkedin.com/in/lucaswotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href=mailto:lucaswotta@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discord.com/users/603319645902077975" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-    
-    
-  </div>
-
-<br>
   
-<br>
+[![](https://visitcount.itsvg.in/api?id=lucaswotta&icon=8&color=3)](https://visitcount.itsvg.in)
+
+</div>
+
 <br>
 <hr>
   
@@ -68,4 +65,4 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=lucaswotta&icon=8&color=3)](https://visitcount.itsvg.in)
+
