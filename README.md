@@ -6,20 +6,6 @@
 
 </div>
 
-<br>
-
-<p>Graduating in Systems Analysis and Development, I'm an expert in tinkering with hardware looking for new challenges in development for fun and profit.<p>
-
-<div align="center">
-  <img height="200" align="right" src="./public/assets/images/golden-boy.gif">
-  <div align="left" style="display: inline_block">
-    <li>🔍 I'm having fun learning.</li>
-    <li>🧠 Focused on well being.</li>
-    <li>💬 Lets talk? Ask me what I'm doing now</li>
-  </div>
-
-<br>
-
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,7 +25,34 @@
   <img title="IntelliJ" alt="IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
 </div>
 
+<br>
 <hr>
+
+<p>Graduating in Systems Analysis and Development, I'm an expert in tinkering with hardware looking for new challenges in development for fun and profit.<p>
+
+<div align="center">
+   <img height="200" align="right" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
+<div align="left" style="display: inline_block">
+   <li>🔍 I'm having fun learning.</li>
+   <li>🧠 Focused on well being.</li>
+   <li>💬 Lets talk? Ask me what I'm doing now</li>
+
+<br>
+    
+<a href="https://www.linkedin.com/in/lucaswotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href=mailto:lucaswotta@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discord.com/users/603319645902077975" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+    
+    
+  </div>
+
+<br>
+  
+<br>
+<br>
+<hr>
+  
 <br>
 
 <details align="center">
