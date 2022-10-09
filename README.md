@@ -20,14 +20,14 @@
 </div>
 
 <div align="left" style="display: inline_block">
-   <li>🔍 I'm having fun learning.</li>
-   <li>🧠 Focused on well being.</li>
+   <li>🔍 I'm having fun learning</li>
+   <li>🧠 Focused on well being</li>
    <li>💬 Lets talk? Ask me what I'm doing now</li>
 
 <br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaswotta) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](mailto:lucaswotta@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:lucaswotta@gmail.com) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/603319645902077975)
 
 </div>
