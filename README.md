@@ -27,7 +27,8 @@
 <br>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucaswotta) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/users/603319645902077975)
+[![Gmail](https://img.shields.io/badge/Gmail-%23E60023.svg?logo=Gmail&logoColor=white)](mailto:lucaswotta@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/603319645902077975)
 
 </div>
   
