@@ -6,7 +6,7 @@
 
 <br>  
 
-[![](https://visitcount.itsvg.in/api?id=lucaswotta&icon=8&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=lucaswotta&color=00AC01&label=Visitors)
   
 </div>
 
@@ -57,7 +57,7 @@
 <hr>
 
 <details>
-<summary>More Stats</summary>
+<summary>More stats</summary>
 
 <div align="center">
   
