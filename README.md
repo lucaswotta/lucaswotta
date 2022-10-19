@@ -6,7 +6,7 @@
 
 <br>  
 
-![](https://komarev.com/ghpvc/?username=lucaswotta&color=00AC01&label=Visitors)
+<img target="_blank" alingn="center" src="https://profile-counter.glitch.me/lucaswotta/count.svg">
   
 </div>
 
@@ -22,7 +22,7 @@
 <div align="left" style="display: inline_block">
    <li>🔍 I'm having fun learning</li>
    <li>🧠 Focused on well being</li>
-   <li>💬 Lets talk? Ask me what I'm doing now</li>
+   <li>💬 Lets talk? Ask me what i'm doing now</li>
 
 <br>
   
