@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5500&pause=18000&color=00AC01&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hello+World!)](https://git.io/typing-svg)
-
-![](https://github-profile-trophy.vercel.app/?username=lucaswotta&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-<br>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=18000&color=00AC01&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hello+World!)](https://github.com/lucaswotta)
 
 <img target="_blank" alingn="center" src="https://profile-counter.glitch.me/lucaswotta/count.svg">
   
@@ -13,7 +9,9 @@
 <hr>
 
 
-<p>Graduating in Systems Analysis and Development, I'm an expert in tinkering with hardware looking for new challenges in development for fun and profit.</p>
+<p>I'm studying Systems Analysis and Development and I'm available for an opportunity as a developer.</p>
+
+<br>
 
 <div align="center">
    <img height="200" align="right" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">
