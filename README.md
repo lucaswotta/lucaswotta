@@ -1,16 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=5000&pause=18000&color=00AC01&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Hello+World!)](https://github.com/lucaswotta)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=15000&color=0CAE2A&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+World!;Welcome!)](https://github.com/lucaswotta)
 
-<img target="_blank" alingn="center" src="https://profile-counter.glitch.me/lucaswotta/count.svg">
+<img target="_blank" src="https://profile-counter.glitch.me/lucaswotta/count.svg">
   
 </div>
 
-<hr>
-
-
-<p>I'm studying Systems Analysis and Development and I'm available for an opportunity as a developer.</p>
-
+<br>
 <br>
 
 <div align="center">
@@ -52,7 +48,7 @@
   <img title="IntelliJ" alt="IntelliJ" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
   </div>
 
-<hr>
+<br>
 
 <details>
 <summary>More stats</summary>
