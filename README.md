@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://linktr.ee/lucaswotta" target="_blank">
-  <img height="280" width="1200" src="https://i.imgur.com/lo9I4su.gif">
+  <img height="260" width="800" src="https://i.imgur.com/bMqVBr0.gif">
   </a>
 </div>
 
