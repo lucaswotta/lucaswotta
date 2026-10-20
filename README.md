@@ -2,7 +2,7 @@
     <a href="https://www.linkedin.com/in/lucaswotta"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-💼 Sou analista de sistemas e negócios em Campos dos Goytacazes (RJ), no [Grupo Barcelos](https://github.com/sistemas-grupo-barcelos) desde 2023. São 13 anos em TI, a maior parte entre PDV, ERP TOTVS Consinco e integrações em Oracle.
+💼 Sou analista de sistemas e negócios no [Grupo Barcelos](https://github.com/sistemas-grupo-barcelos).
 
 🤖 Uso agentes de IA (Claude Code, Codex, OpenCode) para automatizar o que se repete e entregar mais rápido, e gosto de construir ferramentas que resolvem uma dor concreta.
 
