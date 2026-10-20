@@ -4,7 +4,7 @@
 
 💼 Sou analista de sistemas e negócios no [Grupo Barcelos](https://github.com/sistemas-grupo-barcelos).
 
-🤖 Trabalho com LLMs e agentes de forma sistemática: mantenho um harness único (`AGENTS.md`, handoff entre sessões e auditoria dos commits) carregado por Claude Code, Codex, Antigravity e OpenCode, escrevo skills e servidores MCP próprios para e-mail, agenda, chamados e WhatsApp, e construí o [Clipier](https://github.com/lucaswotta/clipier) para orquestrar esses agentes.
+🤖 Trabalho com LLMs e agentes de forma sistemática: mantenho um harness único (`AGENTS.md`, handoff entre sessões e auditoria dos commits) carregado por Claude Code, Codex, Antigravity e OpenCode, escrevo skills e servidores MCP próprios para e-mail, agenda, chamados e WhatsApp, e construí o [Clipier](https://github.com/lucaswotta/clipier) para orquestrar esses agentes fora do CLI, como venho fazendo.
 
 <table>
     <tbody>
