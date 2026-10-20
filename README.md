@@ -1,32 +1,65 @@
-# Lucas Motta
+<p align="center">
+    <a href="https://www.linkedin.com/in/lucaswotta"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-**Analista de Sistemas e Negócios | Automação e IA**
+💼 Sou analista de sistemas e negócios em Campos dos Goytacazes (RJ), no [Grupo Barcelos](https://github.com/sistemas-grupo-barcelos) desde 2023. São 13 anos em TI, a maior parte entre PDV, ERP TOTVS Consinco e integrações em Oracle.
 
-13 anos em TI. Desde 2023 no Grupo Barcelos (varejo), onde sou referência técnica em PDV, ERP TOTVS Consinco e integrações com Oracle, e automatizo o que se repete. Fora do trabalho, construo ferramentas de código aberto e estudo agentes de IA aplicados a desenvolvimento.
+🤖 Uso agentes de IA (Claude Code, Codex, OpenCode) para automatizar o que se repete e entregar mais rápido, e gosto de construir ferramentas que resolvem uma dor concreta.
 
-## Projetos
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="middle">
+                <img width="480px" src="https://raw.githubusercontent.com/lucaswotta/codifyqr/main/docs/media/hero-light.png"/>
+            </td>
+            <td align="center" valign="middle">
+                <img width="480px" src="https://raw.githubusercontent.com/lucaswotta/recicle-hub-public/main/docs/media/dashboard.jpg"/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" valign="middle">
+                <a href="https://lucaswotta.github.io/codifyqr/">CodifyQR</a>: gerador de QR Code que roda inteiro no navegador, sem rastreio, com Pix e verificador de leitura.
+            </td>
+            <td align="center" valign="middle">
+                <a href="https://lucaswotta.github.io/recicle-hub-public/">Recicle Hub</a>: painel de gestão de reciclagem que roda em produção na Barcelos (demo com dados fictícios).
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [codifyqr](https://github.com/lucaswotta/codifyqr) | Gerador de QR Code que roda inteiro no navegador, sem rastreio. Pix, Wi-Fi, vCard e verificador de leitura. [Demo](https://lucaswotta.github.io/codifyqr/) | TypeScript, Vite, PWA |
-| [clipier](https://github.com/lucaswotta/clipier) | Painel para usar vários agentes de código (Claude Code, Codex, OpenCode) lado a lado, cada um no seu worktree. | Rust, Tauri |
-| [recicle-hub-public](https://github.com/lucaswotta/recicle-hub-public) | Demo do painel de gestão de reciclagem que roda em produção no Grupo Barcelos. [Demo](https://lucaswotta.github.io/recicle-hub-public/) | Angular, Node.js, PostgreSQL, Oracle |
-| [invent-ssh](https://github.com/lucaswotta/invent-ssh) | Inventário de hardware de terminais Linux via SSH, com interface gráfica. | Python |
-| [control-kill](https://github.com/lucaswotta/control-kill) | Extensão do GNOME Shell para encerrar aplicativos travados com segurança. | JavaScript |
-| [debian-gnome-setup](https://github.com/lucaswotta/debian-gnome-setup) | Guia de estação de trabalho com Debian 13 e GNOME, com verificação e reversão em cada passo. | Shell |
+👨🏻‍🔧 Projetos de código aberto:
 
-Contribuições: [codexbar-gnome](https://github.com/lucaswotta/codexbar-gnome) (extensão GNOME) e [claude-image-view](https://github.com/lucaswotta/claude-image-view) (plugin do Claude Code).
+* [CodifyQR](https://github.com/lucaswotta/codifyqr) – gerador de QR Code em TypeScript, PWA offline, em português, inglês e espanhol
+* [Clipier](https://github.com/lucaswotta/clipier) – painel em Rust e Tauri para usar vários agentes de código lado a lado, cada um no seu worktree
+* [invent-ssh](https://github.com/lucaswotta/invent-ssh) – inventário de hardware de terminais Linux via SSH, com interface gráfica
+* [Control Kill](https://github.com/lucaswotta/control-kill) – extensão do GNOME Shell para encerrar aplicativos travados com segurança
+* [debian-gnome-setup](https://github.com/lucaswotta/debian-gnome-setup) – guia de estação de trabalho com Debian 13 e GNOME, com verificação e reversão em cada passo
+* Contribuições: [codexbar-gnome](https://github.com/lucaswotta/codexbar-gnome) e [claude-image-view](https://github.com/lucaswotta/claude-image-view)
 
-## Stack
+🏢 No trabalho (código fechado):
 
-Oracle PL/SQL, PostgreSQL · TypeScript, Node.js, Angular, Python, Rust, Shell · Linux (Debian) · agentes de IA e MCP
+* Integração de pedidos do iFood com o ERP, em PL/SQL
+* PDI, um portal de integrações em NestJS com arquitetura hexagonal
+* Venc Hub, sistema de rebaixa de produtos perto do vencimento
+* Ferramentas de suporte para PDV e automação de rotinas do time
 
-## Formação
+🎮 Em andamento: um roguelite de goleiro em Phaser, ainda sem data.
 
-- MBA em Administração de Banco de Dados (VINCIT, 2025)
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (Candido Mendes, 2024)
-- Tecnólogo em Inteligência Artificial (em andamento)
+🎲 Fora do código: games (Steam e portáteis retrô), Linux e GNOME, open source.
 
-## Contato
+📫 Fale comigo pelo [LinkedIn](https://www.linkedin.com/in/lucaswotta).
 
-[LinkedIn](https://www.linkedin.com/in/lucaswotta)
+Tecnologias frequentes:
+
+<p>
+    <img alt="Oracle" src="https://img.shields.io/badge/-Oracle_PL/SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
