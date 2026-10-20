@@ -4,7 +4,7 @@
 
 💼 Sou analista de sistemas e negócios no [Grupo Barcelos](https://github.com/sistemas-grupo-barcelos).
 
-🤖 Uso agentes de IA (Claude Code, Codex, OpenCode) para automatizar o que se repete e entregar mais rápido, e gosto de construir ferramentas que resolvem uma dor concreta.
+🤖 Trabalho com LLMs e agentes de forma sistemática: mantenho um harness único (`AGENTS.md`, handoff entre sessões e auditoria dos commits) carregado por Claude Code, Codex, Antigravity e OpenCode, escrevo skills e servidores MCP próprios para e-mail, agenda, chamados e WhatsApp, e construí o [Clipier](https://github.com/lucaswotta/clipier) para orquestrar esses agentes.
 
 <table>
     <tbody>
