@@ -40,7 +40,7 @@
 
 * Integração de pedidos do iFood com o ERP, em PL/SQL
 * PDI, um portal de integrações em NestJS com arquitetura hexagonal
-* Venc Hub, sistema de rebaixa de produtos perto do vencimento
+* Vence, sistema de rebaixa de produtos
 * Ferramentas de suporte para PDV e automação de rotinas do time
 
 🎮 Em andamento: um roguelite de goleiro em Phaser, ainda sem data.
