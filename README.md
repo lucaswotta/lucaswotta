@@ -13,7 +13,7 @@
                 <img width="480px" src="https://raw.githubusercontent.com/lucaswotta/codifyqr/main/docs/media/hero-light.png"/>
             </td>
             <td align="center" valign="middle">
-                <img width="480px" src="https://raw.githubusercontent.com/lucaswotta/recicle-hub-public/main/docs/media/dashboard.jpg"/>
+                <img width="480px" src="/img/recicle-hub.png"/>
             </td>
         </tr>
         <tr>
